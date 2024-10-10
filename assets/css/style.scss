@@ -376,6 +376,11 @@ a { text-decoration:none; }
   text-align: justify; /* Justify the paragraph text */
   min-height: 150px; /* Ensures the box has a minimum height */
 }
+    
+    .about-me-box h3 {
+  text-align: center; /* Center the heading */
+  margin-top: 0; /* Remove top margin from the heading */
+}
 
 .about-me-box p {
   font-size: 16px; /* Adjust the font size */
