@@ -366,7 +366,7 @@ a { text-decoration:none; }
     }
 
     .about-me-box {
-  max-width: 800px; /* Set a larger max-width for a more rectangular shape */
+  max-width: 900px; /* Set a larger max-width for a more rectangular shape */
   margin: 20px auto; /* Center the box horizontally and add space above/below */
   padding: 20px; /* Increase padding for more space inside the box */
   background-color: #f9f9f9; /* Light background color */
@@ -374,12 +374,7 @@ a { text-decoration:none; }
   border-radius: 8px; /* Rounded corners for a smooth look */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
   text-align: justify; /* Justify the paragraph text */
-  min-height: 200px; /* Ensures the box has a minimum height */
-}
-
-.about-me-box h3 {
-  text-align: center; /* Center the heading */
-  margin-top: 0; /* Removes top margin from the heading */
+  min-height: 150px; /* Ensures the box has a minimum height */
 }
 
 .about-me-box p {
