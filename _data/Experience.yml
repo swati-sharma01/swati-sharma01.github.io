@@ -1,22 +1,22 @@
-subject: Experiences
+subject: Academic Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: University of North Carolina Wilmington
+    role: *Lecturer*
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Principles of Macroeconomics - ECN222; Fall 2024; 3 sections total
+      - Principles of Macroeconomics - ECN222; Spring 2024; 4 sections total
+    date: Aug. 2024 - Ongoing
+  - title: Florida International University
+    role: *Graduate Assistant - Instructor*
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Principles of Macroeconomics (Fall 2021, Summer 2022, Summer 2023, Fall 2023) (Over 55 students in each section/semester)
+      - Principles of Microeconomics (Fall 2022, Spring 2023, Summer 2024) (Over 55 students in each section/semester)
+    role: *Teaching Assistant*
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+    - Delivered comprehensive instruction to students, covering foundational economic theories and delving into advanced topics when relevant.
+    - Thoughtfully assessed term papers and administered midterm and final exams with care.
+    - Provided personalized mentoring sessions to students, aiming to bolster their understanding of economic concepts.
+    - Kept abreast of the latest economic developments, ensuring a well-informed approach to facilitating learning experiences.
+    date: Aug. 2019 - July 2024
