@@ -365,6 +365,17 @@ a { text-decoration:none; }
         }
     }
 
+    .about-me-box {
+  border: 1px solid #ccc; /* Border color */
+  padding: 15px; /* Space inside the box */
+  margin-top: 20px; /* Space above the box */
+  background-color: #f9f9f9; /* Background color */
+  border-radius: 5px; /* Rounded corners */
+}
+.about-me-box h3 {
+  margin-top: 0; /* Remove top margin from the heading */
+}
+
     #contents {
         width: 78%;
         margin-left: 17%;
