@@ -2,12 +2,12 @@ subject: Academic Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: University of North Carolina Wilmington
+    role: '*Lecturer*'
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
+      - Principles of Macroeconomics, ECN222 - Fall 2024, 3 sections
+      - Principles of Macroeconomics, ECN222 - Spring 2025, 3 sections
+    date: Aug. 2024 - Ongoing
   - title: Amazone
     role: Senior Software Engineer
     description: 
