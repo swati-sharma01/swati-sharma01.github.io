@@ -366,27 +366,7 @@ a { text-decoration:none; }
         }
     }
 
-    .about-me-box {
-  max-width: 900px; /* Set a larger max-width for a more rectangular shape */
-  margin: 20px auto; /* Center the box horizontally and add space above/below */
-  padding: 20px; /* Increase padding for more space inside the box */
-  background-color: #f9f9f9; /* Light background color */
-  border: 1px solid #ccc; /* Border around the box */
-  border-radius: 8px; /* Rounded corners for a smooth look */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-  text-align: justify; /* Justify the paragraph text */
-  min-height: 150px; /* Ensures the box has a minimum height */
-}
     
-    .about-me-box h3 {
-  text-align: center; /* Center the heading */
-  margin-top: 0; /* Remove top margin from the heading */
-}
-
-.about-me-box p {
-  font-size: 16px; /* Adjust the font size */
-  line-height: 1.5; /* Increase line spacing for better readability */
-}
 
     #contents {
         width: 78%;
