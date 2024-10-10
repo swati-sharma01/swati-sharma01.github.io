@@ -2,18 +2,10 @@ subject: Research
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Inflation Targeting: Is it still making a difference?"
+  - title: "**Inflation Targeting: Is it still making a difference?**"
     description: 
       - Abstract- With more than three decades since its first adoption, Inflation targeting (IT) has emerged as the popular monetary policy regime that has been increasingly adopted by advanced as well as emerging economies. This paper examines the impact of adopting IT on inflation using a staggered difference-in-difference approach. The estimation methodology is relevant to the multiple periods and variation in treatment timing setup. The long panel data set is divided into two sample periods, and these samples are further restricted based on certain threshold analyses. The findings suggest that IT reduces inflation for treated countries, on average, by 2.5%.
     
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+  - title: "Financial development under Inflation Targeting"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Abstract - Promoting price stability is essential to guaranteeing a sound financial environment. Researchers and policy-makers alike worldwide still debate the relationship between monetary policy and financial development. This paper empirically estimates the impact of adopting IT on financial development. It evaluates the impact of adopting the policy on the overall Financial Development (FD) Index, Financial Markets Index (FMI), and Financial Institutions Index (FII). The study uses the recently developed quasi-experimental model estimation of staggered treatment adoption design, taking heterogeneity and endogeneity in treatment into account, to address the complexity of the relationship between monetary policy and financial development and evaluate it systematically. The results indicate that the policy adoption has a positive impact on all three indices with an average increase of 8.03%.
