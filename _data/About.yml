@@ -1,1 +1,5 @@
-
+subject: About
+listing-order: 1
+icon: "/assets/img/face_grin.svg"
+contents:
+  - title: University of North Carolina Wilmington
