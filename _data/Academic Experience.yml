@@ -1,12 +1,11 @@
-subject: Academic Experiences
+subject: Academic Experience
 listing-order: 3
 icon: "/assets/img/briefcase.svg"
 contents:
   - title: University of North Carolina Wilmington
     role: Lecturer
     description:
-      - Principles of Macroeconomics, ECN222 - Fall 2024, 3 sections
-        - [Syllabus](assets/ECN222_04_fall_Syllabus.pdf)
+      - Principles of Macroeconomics, ECN222 - Fall 2024, 3 sections<br>[Syllabus](assets/ECN222_04_fall_Syllabus.pdf)
       - Principles of Macroeconomics, ECN222 - Spring 2025, 3 sections
     date: Aug. 2024 - Ongoing
   - title: Florida International University
