@@ -391,7 +391,7 @@ a { text-decoration:none; }
     .centered-greeting {
   text-align: center; /* Center the "Greetings" */
   color: red; /* Make "Greetings" red */
-  margin-bottom: 0; /* Add space after the line */
+  margin-bottom: -10px; /* Add space after the line */
 }
 
     .about-me-box p:last-child {
