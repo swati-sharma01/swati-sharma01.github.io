@@ -393,6 +393,10 @@ a { text-decoration:none; }
   color: red; /* Make "Greetings" red */
   margin-bottom: 0; /* Add space after the line */
 }
+
+    .about-me-box p:last-child {
+  margin-top: -5px; /* Adjust the value as needed */
+}
     
 
     #contents {
