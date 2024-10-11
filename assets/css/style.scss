@@ -386,11 +386,12 @@ a { text-decoration:none; }
   font-size: 16px; /* Adjust the font size */
   line-height: 1.5; /* Increase line spacing for better readability */
     margin-top: 0;
+    margin-bottom: 0;
 }
     .centered-greeting {
   text-align: center; /* Center the "Greetings" */
   color: red; /* Make "Greetings" red */
-  margin-bottom: 0px; /* Add space after the line */
+  margin-bottom: 0; /* Add space after the line */
 }
     
 
