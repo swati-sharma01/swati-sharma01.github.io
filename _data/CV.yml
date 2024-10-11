@@ -1,3 +1,6 @@
-#subject: CV
+subject: CV
 listing-order: 5
-
+icon: "/assets/img/handshake.svg"
+contents:
+  - title: Complete [CV](https://drive.google.com/file/d/1zoHMhk12WLrpLEGw3e-6mnW6DZktysZ-/view?usp=drive_link)
+    
