@@ -94,8 +94,9 @@
       <h2>{{ site.job }}</h2>
     </div>
     <div class="about-me-box">
-  <h3>About Me</h3>
-  <p>{{ site.about_me }}</p> <!-- Pulls content from the _config.yml -->
+  <h3><u>About Me</u></h3>
+      <p class="centered-greeting">Greetings!</p>
+  <p>{{ site.about_me| remove: "Greetings!" } }</p> <!-- Pulls content from the _config.yml -->
 </div>
 </div>
   </div>
