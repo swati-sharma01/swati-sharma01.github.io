@@ -2,13 +2,6 @@ subject: Academic Experience
 listing-order: 6
 icon: "/assets/img/briefcase.svg"
 contents:
-- title: Florida International University
-    role: Visiting Assistant Teaching Professor
-    description:
-      - Introduction to Mathematical Economics ECN 4401
-      - Intermediate Macroeconomic Theory ECN 3203
-      - Principles of Macroeconomics ECN 2013
-    date: Aug. 2025 - Ongoing
   - title: University of North Carolina Wilmington
     role: Visiting Lecturer
     description:
