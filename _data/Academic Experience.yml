@@ -2,12 +2,13 @@ subject: Academic Experience
 listing-order: 3
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: University of North Carolina Wilmington
-    role: Visiting Lecturer
+  - title: Florida International University
+    role: Visiting Assistant Teaching Professor
     description:
-      - Principles of Macroeconomics, ECN222 - Fall 2024, 3 sections<br>[Syllabus](assets/ECN222_04_fall_Syllabus.pdf)
-      - Principles of Macroeconomics, ECN222 - Spring 2025, 3 sections<br>[Syllabus](assets/Macro_Syllabus_Spring25_UNCW.pdf)<br>[Teaching Evaluations](assets/Teaching Evaluations_combined_Spirng25.pdf)
-    date: Aug. 2024 - June 2025
+      - Introduction to Mathematical Economics - ECO4401
+      - Intermediate Macroeconomic Theory - ECO3203
+      - Principles of Macroeconomics - ECO2013
+    date: Aug. 2025 - Ongoing
   - title: University of North Carolina Wilmington
     role: Visiting Lecturer
     description:
