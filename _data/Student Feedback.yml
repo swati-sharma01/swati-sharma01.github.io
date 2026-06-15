@@ -3,8 +3,8 @@ listing-order: 4
 icon: "/assets/img/globe.svg"
 contents:
   - title: Lecturing Ability
-  description:
-  - Professor was incredibly amazing at simplifying material as well as answering questions and/or concerns
+    description:
+      - Professor was incredibly amazing at simplifying material as well as answering questions and/or concerns
   - title: In-and-out of classroom support
-  description:
-  -The Homework assignments using MyLab was a great tool because it helped me a lot to further expand my understanding before the exams.
+    description:
+      - The Homework assignments using MyLab was a great tool because it helped me a lot to further expand my understanding before the exams.
