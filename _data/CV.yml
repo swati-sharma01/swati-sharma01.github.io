@@ -1,5 +1,5 @@
 subject: CV
 listing-order: 5
-icon: "resources/svgs/regular/file-pdf.svg"
+icon: "/assets/img/file-pdf.svg"
 contents:
   - title: Complete [CV](assets/CV_Swati Sharma.pdf)
